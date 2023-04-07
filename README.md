@@ -7,3 +7,5 @@ For preprocessing we used data generators, we have a CNN architecture consists o
 Next we used ViT for better accuracy As we all know transformer-based model is more effective at capturing long-range dependencies in the images so resulting model should have higher accuracy than the previous model. The ViT model uses a transformer architecture that processes the input image using attention mechanisms. Both models were trained using the Adam optimizer with different learning rates and other hyperparameters.
 
 We have used pre defined methods of ViT with the help of youtube videos.
+
+Web-Page - https://vchadha99.github.io/Maths-Final-Project/
